@@ -13,4 +13,4 @@ driver.find_element_by_xpath("/html/body/div/div[3]/form/div[2]/div/div[1]/div/d
 #driver.find_element_by_xpath("//a[contains(text(),'Gmail')]").click()
 #driver.find_element_by_name('q').send_keys('Mac\n')
 
-driver.save_screenshot('Google.png')
+#driver.save_screenshot('Google.png')
